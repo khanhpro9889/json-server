@@ -1,5 +1,6 @@
 {
-    "post": [{
+    "posts": [
+      {
         "title": "Thieves (Voleurs, Les)",
         "content": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
         "id": 1
@@ -41,7 +42,8 @@
         "id": 10
         }
     ],
-    "user": [{
+    "users": [
+      {
         "name": "Kaia",
         "email": "kdeesly0@marriott.com",
         "id": 1
@@ -83,7 +85,8 @@
         "id": 10
       }
     ],
-    "comment": [{
+    "comments": [
+      {
         "id": 1,
         "content": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
         "id_user": 1,
