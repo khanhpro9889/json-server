@@ -75,8 +75,14 @@
       {
         "id": 6,
         "content": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-        "id_user": 5,
+        "id_user": 3,
         "id_post": 5
+      },
+      {
+        "id": 7,
+        "content": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "id_user": 2,
+        "id_post": 4
       }
     ]
 }
